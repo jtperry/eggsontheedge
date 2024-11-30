@@ -10,4 +10,4 @@ blueskyUri: 'https://bsky.app/profile/ontheedgefarms.com/post/3lc5f6akxpk24'
 
 # WELCOME
 
-Welcome to our little home on the web for our farm.  Much more to come.![](/assets/OnTheEdgeFarmsLogo.png)
+Welcome to our little home on the web for our farm.  Much more to come here soon.![](/assets/OnTheEdgeFarmsLogo.png)
